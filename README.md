@@ -1,14 +1,16 @@
-# Cardpay Processing API SDK for Go language
+# Cardpay Processing API SDK for Go
 
 ## Install
 
 In OS console:
-go get github.com/cardpay/go-sdk/cardpay
+<pre>go get github.com/cardpay/go-sdk/cardpay
+</pre>
 
 ## Import to project
 
 In your source code:
-import . "github.com/cardpay/go-sdk/cardpay"
+<pre>import . "github.com/cardpay/go-sdk/cardpay"
+</pre>
 
 ## Integrate your project with Cardpay API
 
